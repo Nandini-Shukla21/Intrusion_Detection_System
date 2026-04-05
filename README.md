@@ -89,6 +89,7 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
+---
 
 ##🚀 Future Enhancements
 
@@ -104,7 +105,7 @@ Network Intrusion Detection
 Threat Analysis & Research
 Government & Defense Applications
 
-
+---
 ##👩‍💻 Author
 
 **Nandini Shukla**
@@ -120,3 +121,5 @@ This project demonstrates a practical and intelligent cybersecurity solution by 
 ✔ Machine Learning
 ✔ Explainable AI
 ✔ Real-time system design
+
+---

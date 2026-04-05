@@ -4,6 +4,13 @@
 
 ---
 
+## 🌐 Live Demo
+
+👉 https://nandini-shukla21-intrusion-detection-system-app-3cinfh.streamlit.app/
+
+---
+
+
 ## 📌 Overview
 
 This project presents an **Intelligent Intrusion Detection System (IDS)** built using Machine Learning and Anomaly Detection techniques.  
@@ -68,7 +75,8 @@ The system goes beyond basic classification by integrating:
 ├── metrics.json # Classification Report
 ├── confusion_matrix.npy # Confusion Matrix
 ├── feature_importance.csv # Feature Importance
-├── intrusion detection.ipynb # Model Development
+├── notebook.ipynb # Model Development
+├── requirements.txt
 └── README.md
 
 
@@ -77,6 +85,38 @@ The system goes beyond basic classification by integrating:
 ## ⚙️ Installation
 
 ```bash
-pip install pandas numpy scikit-learn matplotlib seaborn streamlit
+pip install -r requirements.txt
 
 streamlit run app.py
+
+
+##🚀 Future Enhancements
+
+Deep Learning (Autoencoder-based IDS)
+Sequence Pattern Analysis
+Real-time packet capture integration
+Cloud deployment scaling
+
+
+## 🎓 Use Cases
+Cybersecurity Monitoring Systems
+Network Intrusion Detection
+Threat Analysis & Research
+Government & Defense Applications
+
+
+##👩‍💻 Author
+
+**Nandini Shukla**
+**B.Tech CSE (AI & ML)**
+**Machine Learning | AI | Cybersecurity Enthusiast**
+
+
+
+###⭐ Conclusion
+
+This project demonstrates a practical and intelligent cybersecurity solution by combining:
+
+✔ Machine Learning
+✔ Explainable AI
+✔ Real-time system design
